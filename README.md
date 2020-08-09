@@ -28,25 +28,9 @@
 |Day 18|May 28, 2020| Implementation of Merge Sort & Quick Sort| [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
 |Day 19|May 29, 2020| Rectified major bug on website| [Portfolio](https://purav-parekh.github.io) |
 |Day 20|May 30, 2020| Implementation of Searchig Algorithms| [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Day 21|May 31, 2020| Dynamic Programming Concepts| [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
+|Day 22|June 1-2, 2020| Easy - Interview Questions on GeeksForGeeks| [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
+|Day 23|June 3, 2020| Intermediate - Interview Questions on GeeksForGeeks| [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
+|Day 24|June 4, 2020| BST Interview Questions on GeeksForGeeks| [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
+|--|June 5-6, 2020| -- Break -- | |
+|Day 25|June 7, 2020| Trees Interview Questions on GeeksForGeeks| [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
