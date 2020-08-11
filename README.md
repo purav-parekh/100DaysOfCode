@@ -42,6 +42,6 @@
 |Day 30|June 25, 2020| HTML- Tables & Semantic Elements | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 31|June 26, 2020| HTML- Forms, GET & POST Methods | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 32|June 27, 2020| HTML- SVG Graphics | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
-|Day 33|June 28, 2020| Created Travel Blog using HTML & CSS | [Travel Blog] (https://github.com/purav-parekh/TravelBlog)|
+|Day 33|June 28, 2020| Created Travel Blog using HTML & CSS | [Travel Blog](https://github.com/purav-parekh/TravelBlog)|
 |Day 34|June 29, 2020| Basics of CSS | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 35|June 30, 2020| CSS - Box Model | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
