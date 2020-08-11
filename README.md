@@ -36,7 +36,7 @@
 |--|June 6-12, 2020| -- Examination Break -- | |
 |Day 26|June 13, 2020| Linked Lists Interview Questions on GeeksForGeeks| [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
 |Day 27|June 14, 2020| Coding competition on Hackerrank| |
-|--|June 15-21, 2020| Internet Outrage | |
+|--|June 15-21, 2020| Internet Outage | |
 |Day 28|June 22, 2020| HTML | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 29|June 23, 2020| One Page Static Website | |
 |Day 30|June 25, 2020| HTML- Tables & Semantic Elements | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
