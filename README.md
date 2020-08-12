@@ -45,3 +45,8 @@
 |Day 33|June 28, 2020| Created Travel Blog using HTML & CSS | [Travel Blog](https://github.com/purav-parekh/TravelBlog)|
 |Day 34|June 29, 2020| Basics of CSS | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 35|June 30, 2020| CSS - Box Model | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 36|July 1, 2020| CSS - Combinators & Pseudo Classes | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 37|July 2, 2020| Google Home Page Clone | [Google](https://codepen.io/puravparekh/pen/ZEQvQmb)|
+|Day 38|July 4, 2020| CSS - Flex Layout & Media Queries | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 39|July 5, 2020| CSS - CSS Grid & Animation | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 40-41|July 6-7, 2020| CSS Revisit | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
