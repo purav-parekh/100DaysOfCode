@@ -49,4 +49,14 @@
 |Day 37|July 2, 2020| Google Home Page Clone | [Google](https://codepen.io/puravparekh/pen/ZEQvQmb)|
 |Day 38|July 4, 2020| CSS - Flex Layout & Media Queries | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 39|July 5, 2020| CSS - CSS Grid & Animation | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
-|Day 40-41|July 6-7, 2020| CSS Revisit | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 40|July 6, 2020| CSS Revisit | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 41|July 7, 2020| CSS Revisit | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 42|July 8, 2020| Basic JavaScript | [JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn)|
+|Day 43|July 9, 2020| Basic JavaScript Module 1 | [JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn)|
+|Day 44|July 10, 2020| Basic JavaScript Module 1 | [JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn)|
+|Day 45|July 11, 2020| ES6 JavaScript | [JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn)|
+|Day 46|July 12, 2020| ES6 JavaScript | [JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn)|
+|Day 47|July 13, 2020| MDN Docs Reading | [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
+|Day 48|July 14, 2020| JavaScript | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 49|July 15, 2020| JavaScript + Profile Card | [Profile Card](https://codepen.io/puravparekh/pen/bGExPaj)|
+|Day 50|July 16, 2020| JavaScript + Timer | [Timer](https://codepen.io/puravparekh/pen/oNbaeRP)|
