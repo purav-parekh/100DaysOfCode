@@ -6,17 +6,17 @@
 ## Timeline
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------|-----------------|--------------------|---------------------|
-|Day 1|May 4, 2020| Implementation of HashTables in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
-|Day 2|May 5, 2020| Implementation of LinkedLists in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
-|Day 3|May 6, 2020| Implementation of DoublyLinkedLists in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
-|Day 4|May 7, 2020| Implementation of Stacks & Queues in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
-|Day 5|May 8, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
-|Day 6|May 9, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
-|Day 7|May 11, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
-|Day 8|May 12, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
+|------ |-----------------|--------------------|---------------------|
+|Day 1 |May 4, 2020| Implementation of HashTables in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
+|Day 2 |May 5, 2020| Implementation of LinkedLists in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
+|Day 3 |May 6, 2020| Implementation of DoublyLinkedLists in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
+|Day 4 |May 7, 2020| Implementation of Stacks & Queues in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)|
+|Day 5 |May 8, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/)|
+|Day 6 |May 9, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
+|Day 7 |May 11, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
+|Day 8 |May 12, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
 |--|May 13-16, 2020| Examination Days (No Code Days) |  |
-|Day 9|May 17, 2020| Implementation of Trees, Trie in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
+|Day 9 |May 17, 2020| Implementation of Trees, Trie in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
 |Day 10|May 18, 2020| Implementation of Graphs in Python | [Udemy Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) |
 |Day 11|May 20, 2020| 1hr Data Structures test on Hackerrank |  |
 |Day 12|May 21, 2020| Problem solving on HashTable, LinkedLists, Stacks and Queues | [Repo Link](https://github.com/purav-parekh/InterviewQuestions/) |
@@ -60,3 +60,9 @@
 |Day 48|July 14, 2020| JavaScript | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 49|July 15, 2020| JavaScript + Profile Card | [Profile Card](https://codepen.io/puravparekh/pen/bGExPaj)|
 |Day 50|July 16, 2020| JavaScript + Timer | [Timer](https://codepen.io/puravparekh/pen/oNbaeRP)|
+|Day 51|July 17, 2020| CSS on @freecodecamp | [Free Code Camp](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)|
+|Day 52|July 18, 2020| CSS on @freecodecamp | [Free Code Camp](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)|
+|--|July 19-23, 2020| -- Examination Break -- | |
+|Day 53|July 24, 2020| Created a Tribute Page | [Tribute Page](https://codepen.io/puravparekh/pen/ZEQPOPo)|
+|Day 54|July 25, 2020| Created a Survey Form | [Survey Form](https://codepen.io/puravparekh/pen/MWKRYqz)|
+|Day 55|July 27, 2020| Created a Product Landing Page | [Product Landing Page](https://codepen.io/puravparekh/pen/VweNMdM)|
