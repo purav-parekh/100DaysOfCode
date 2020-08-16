@@ -66,3 +66,8 @@
 |Day 53|July 24, 2020| Created a Tribute Page | [Tribute Page](https://codepen.io/puravparekh/pen/ZEQPOPo)|
 |Day 54|July 25, 2020| Created a Survey Form | [Survey Form](https://codepen.io/puravparekh/pen/MWKRYqz)|
 |Day 55|July 27, 2020| Created a Product Landing Page | [Product Landing Page](https://codepen.io/puravparekh/pen/VweNMdM)|
+|Day 56|July 28, 2020| JavaScript w.r.t Front-end | [Change bg-color on button click](https://codepen.io/puravparekh/pen/JjGVwRw)|
+|Day 57|July 29, 2020| JavaScript w.r.t Front-end | [Change font-size on button click](https://codepen.io/puravparekh/pen/XWXLmQR)|
+|Day 58|July 30, 2020| JavaScript Events | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 59|July 31, 2020| ToDo App | [ToDo App](https://codepen.io/puravparekh/pen/RwrzJBK)|
+|Day 60|August 1, 2020| JavaScript - Browser Object Model | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
