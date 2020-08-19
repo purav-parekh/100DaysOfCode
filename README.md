@@ -71,3 +71,6 @@
 |Day 58|July 30, 2020| JavaScript Events | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
 |Day 59|July 31, 2020| ToDo App | [ToDo App](https://codepen.io/puravparekh/pen/RwrzJBK)|
 |Day 60|August 1, 2020| JavaScript - Browser Object Model | [Udemy Course](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/)|
+|Day 61|August 3, 2020| Product Landing Page with JavaScript | [Smart Watch Showcase](https://codepen.io/puravparekh/pen/bGpbrBJ)|
+|Day 62|August 4, 2020| jQuery | [jQuery - W3Schools](https://www.w3schools.com/jquery)|
+|Day 63|August 5, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
