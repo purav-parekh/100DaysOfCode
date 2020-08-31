@@ -74,3 +74,16 @@
 |Day 61|August 3, 2020| Product Landing Page with JavaScript | [Smart Watch Showcase](https://codepen.io/puravparekh/pen/bGpbrBJ)|
 |Day 62|August 4, 2020| jQuery | [jQuery - W3Schools](https://www.w3schools.com/jquery)|
 |Day 63|August 5, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 64|August 6, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 65|August 7, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 66|August 8, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 67|August 10, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 68|August 11, 2020| React JS | [Reactjs Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
+|Day 69|August 12, 2020| HackerEarth Test | |
+|Day 70|August 13, 2020| Hackerearth Test | |
+|Day 71|August 15, 2020| Independence Day Special | [Indian Flag-CodePen](https://codepen.io/puravparekh/pen/xxVVdXw)|
+|Day 72|August 16, 2020| New Portfolio Website | [Portfolio](https://purav-parekh.github.io)|
+|Day 73|August 17, 2020| New Portfolio Website | [Portfolio](https://purav-parekh.github.io)|
+|Day 74|August 18, 2020| New Portfolio Website | [Portfolio](https://purav-parekh.github.io)|
+|Day 75|August 19, 2020| New Portfolio Website | [Portfolio](https://purav-parekh.github.io)|
+|Day 76|August 20, 2020| LeetCode | [LeetCode](https://www.leetcode.com)|
