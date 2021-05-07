@@ -92,7 +92,7 @@
 |Day 79|August 24, 2020| Built Bootstrap Website | [Bootstrap Website](https://github.com/purav-parekh/Responsive-Bootstrap-Website)|
 |Day 80|August 25, 2020| Added functionalities to Bootstrap Website | [Bootstrap Website](https://github.com/purav-parekh/Responsive-Bootstrap-Website)|
 |Day 81|August 26, 2020| Work on new Portfolio Website | [Personal Portfolio](https://purav-parekh.github.io)|
-|Day 82|August 27, 2020| Work on client Website | Link soon..|
+|Day 82|August 27, 2020| Work on client Website |[Mint Chalk Media](https://mintchalkmedia.com/)|
 |Day 83|August 27, 2020| Work on client Website | Link soon..|
 |Day 84-85-86 |August 28-30, 2020| Work on client Websites | Link soon..|
 |Day 87|September 3, 2020| Work on client Website & Learnt basics of Figma | Link soon..|
