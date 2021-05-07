@@ -93,17 +93,17 @@
 |Day 80|August 25, 2020| Added functionalities to Bootstrap Website | [Bootstrap Website](https://github.com/purav-parekh/Responsive-Bootstrap-Website)|
 |Day 81|August 26, 2020| Work on new Portfolio Website | [Personal Portfolio](https://purav-parekh.github.io)|
 |Day 82|August 27, 2020| Work on client Website |[Mint Chalk Media](https://mintchalkmedia.com/)|
-|Day 83|August 27, 2020| Work on client Website | Link soon..|
-|Day 84-85-86 |August 28-30, 2020| Work on client Websites | Link soon..|
-|Day 87|September 3, 2020| Work on client Website & Learnt basics of Figma | Link soon..|
-|Day 88|September 5, 2020| Work on client Website | Link soon..|
-|Day 89|September 7, 2020| Work on client Website | Link soon..|
-|Day 90|September 8, 2020| Work on client Website | Link soon..|
-|Day 91|September 14, 2020| Work on client Website | Link soon..|
-|Day 92|September 15, 2020| Work on client Website | Link soon..|
-|Day 93|September 16, 2020| Work on client Website | Link soon..|
-|Day 94|September 17, 2020| Work on client Website | Link soon..|
+|Day 83|August 27, 2020| Work on client Website | [Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 84-85-86 |August 28-30, 2020| Work on client Websites | [Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 87|September 3, 2020| Work on client Website & Learnt basics of Figma | [Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 88|September 5, 2020| Work on client Website |[Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 89|September 7, 2020| Work on client Website | [Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 90|September 8, 2020| Work on client Website | [Mint Chalk Media](https://mintchalkmedia.com/)|
+|Day 91|September 14, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
+|Day 92|September 15, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
+|Day 93|September 16, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
+|Day 94|September 17, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
 |Day 95|September 20, 2020| Reactjs CrashCourse by TraversyMedia | [Reactjs CrashCourse](https://youtu.be/sBws8MSXN7A) |
 |Day 96|September 22, 2020| Reactjs CrashCourse by TraversyMedia - ToDo App | [Reactjs CrashCourse](https://youtu.be/sBws8MSXN7A), [ToDo App](https://github.com/purav-parekh/React-ToDo-App) |
-|Day 98|September 23, 2020| Work on client Website | Link soon..|
-|Day 100|September 25, 2020| Work on client Website | Link soon..|
+|Day 98|September 23, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
+|Day 100|September 25, 2020| Work on client Website | [Medovation Inc](http://medovationinc.com/)|
